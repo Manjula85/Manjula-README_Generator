@@ -31,15 +31,15 @@ function init() {
             message: questions[0],
             validate: titleInput => {
                 if (titleInput) {
-                    return false;
+                    return true;
                 } else {
-                    console.log('Please enter the title');
+                    console.log('Please enter the a valid entry to continue');
                     return false;
                 }
             }
         }
     ])
-    .then(test => console.log(test));
+    ///.then(test => console.log(test));
 };
 
 // Function call to initialize app
