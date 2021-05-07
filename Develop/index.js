@@ -147,5 +147,5 @@ function init() {
 };
 
 // Function call to initialize app
-init().then(result => writeToFile('README.md',result)); 
+init().then(result => writeToFile('../Output/README.md',result)); 
 
