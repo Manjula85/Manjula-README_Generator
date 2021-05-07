@@ -6,7 +6,7 @@ const generatePage = require('./utils/generateMarkdown');
 // TODO: Create an array of questions for user input
 const questions = [];
 
-questions[0] = 'Enter project input here: ';
+questions[0] = 'Enter project title here: ';
 questions[1] = 'Enter desciption: ';
 questions[2] = 'Enter your installation instructions: ';
 questions[3] = 'Enter your usage information: ';
