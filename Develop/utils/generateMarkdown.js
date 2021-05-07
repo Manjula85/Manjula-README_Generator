@@ -30,27 +30,27 @@ function generateMarkdown(data) {
   * [github](#github)
   * [email](#email)
 
-  ## #installation instructions
+  ## installation instructions
   ${data.installation_instructions}
   
-  ## #usage information
+  ## usage information
   ${data.usage_information}
   
-  ## #contribution guidelines
+  ## contribution guidelines
   ${data.contribution_guidelines}
   
-  ## #test instructions
+  ## test instructions
   ${data.test_instructions}
   
-  ## #license
+  ## license
   ${data.license}
 
   ## Questions
   #### If you need reach me for further questions
   
-  ### #github link: [https://github.com/${data.github}]
+  ### github link: [https://github.com/${data.github}]
   
-  ### #email address: ${data.email}
+  ### email address: ${data.email}
   `;
 }
 

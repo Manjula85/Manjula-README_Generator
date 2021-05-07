@@ -23,7 +23,7 @@
   ## #contribution guidelines
   r
   
-  ## #test instructions
+  ## test instructions
   r
   
   ## license
@@ -32,7 +32,7 @@
   ## Questions
   #### If you need reach me for further questions
   
-  ### #github link: [https://github.com/r]
+  ### github link: [https://github.com/r]
   
-  ### #email address: r
+  ### email address: r
   
