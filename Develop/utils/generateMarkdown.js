@@ -21,7 +21,7 @@ function generateMarkdown(data) {
   ## Descriptioin
   ${data.description}
 
-  ##Table of Content
+  ## Table of Content
   * [installation instructions](#installation-instructions)
   * [usage information](#usage-information)
   * [contribution-guidelines](#contribution-guidelines)

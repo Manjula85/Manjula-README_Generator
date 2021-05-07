@@ -26,7 +26,7 @@
   ## #test instructions
   r
   
-  ## #license
+  ## licnse(#license)
   MIT
 
   ## Questions
