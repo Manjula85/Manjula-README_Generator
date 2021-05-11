@@ -5,7 +5,7 @@
   ## Descriptioin
   r
 
-  ##Table of Content
+  ## Table of Content
   * [installation instructions](#installation-instructions)
   * [usage information](#usage-information)
   * [contribution-guidelines](#contribution-guidelines)
@@ -14,13 +14,13 @@
   * [github](#github)
   * [email](#email)
 
-  ## #installation instructions
+  ## installation instructions
   r
   
-  ## #usage information
+  ## usage information
   r
   
-  ## #contribution guidelines
+  ## contribution guidelines
   r
   
   ## test instructions
