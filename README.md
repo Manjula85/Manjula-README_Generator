@@ -10,7 +10,7 @@ To enable the user to create a professional READ.ME using command-line inputs.
 ## Start
 `node index.js`
 
-### Login
+### Coding
 ![](/images/coding.png)
 
 ## Relevant links
