@@ -11,7 +11,7 @@ To enable the user to create a professional READ.ME using command-line inputs.
 `node index.js`
 
 ### Coding
-![](/images/coding.png)
+![](/images/coding.PNG)
 
 ## Relevant links
 Walkthought link: https://drive.google.com/file/d/1MfvUka8L-RPKp5Rpt0AngDs73vrauL7j/view
