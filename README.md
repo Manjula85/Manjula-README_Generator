@@ -11,10 +11,10 @@ To enable the user to create a professional READ.ME using command-line inputs.
 `node index.js`
 
 ### Login
-![](/images/login.png)
+![](/images/coding.png)
 
 ## Relevant links
-Walkthought link: 
+Walkthought link: https://drive.google.com/file/d/1MfvUka8L-RPKp5Rpt0AngDs73vrauL7j/view
 
 Git hub link: https://github.com/Manjula85/README_Generator-Manjula
 
