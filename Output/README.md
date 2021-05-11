@@ -1,9 +1,9 @@
 
 
-  # r 
+  # Test 
 
   ## Descriptioin
-  r
+  tesing
 
   ## Table of Content
   * [installation instructions](#installation-instructions)
@@ -15,16 +15,16 @@
   * [email](#email)
 
   ## installation instructions
-  r
+  none
   
   ## usage information
-  r
+  for testing purposes
   
   ## contribution guidelines
-  r
+  none
   
   ## test instructions
-  r
+  until completion
   
   ## license
   MIT
@@ -32,7 +32,7 @@
   ## Questions
   #### If you need reach me for further questions
   
-  ### github link: [https://github.com/r]
+  ### github link: [https://github.com/github.com/Manjula]
   
-  ### email address: r
+  ### email address: manjula@gmail.com
   
