@@ -8,7 +8,7 @@ To enable the user to create a professional READ.ME using command-line inputs.
 * JavaScript
 
 ## Start
-`<node index.js>`
+`node index.js`
 
 ### Login
 ![](/images/login.png)
